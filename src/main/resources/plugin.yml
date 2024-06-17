@@ -1,0 +1,17 @@
+name: TWarpit
+version: '${project.version}'
+main: com.twarpit.TWarpit
+api-version: '1.20'
+prefix: TWarpit
+authors: [Thearex12]
+description: Thearexin tekemä Warp plugin
+commands:
+  warp:
+    description: Warppaa sijaintiin.
+    permission: twarpit.warp
+  luowarp:
+    description: Luo warppi
+    permission: twarpit.luowarp
+  poistawarp:
+    description: Poista warppi
+    permission: twarpit.poista
