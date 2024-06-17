@@ -45,7 +45,7 @@ public class TWarpit extends JavaPlugin implements CommandExecutor, TabCompleter
         getLogger().info("Pluginin on tehnyt Thearex12");
         getLogger().info("Contact: contact@thearex12.com");
         getLogger().info("Source: https://github.com/Thearex/TWarpit");
-        getLogger().info("Lisenssi: MIT lisenssi");
+        getLogger().info("Lisenssi: MIT");
 
     }
 
